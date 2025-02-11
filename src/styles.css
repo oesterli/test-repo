@@ -14,3 +14,7 @@ main {
     background-color: aquamarine;
     flex-grow: 1;
 }
+
+h1 {
+    color: red;
+}
