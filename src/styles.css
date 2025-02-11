@@ -6,5 +6,11 @@ body {
 
 .overall-wrapper {
     max-width: 1000px;
-    background-color: rgb(27, 182, 94);
+    background-color: beige;
+}
+
+main {
+    height: 100vh;
+    background-color: aquamarine;
+    flex-grow: 1;
 }
