@@ -12,7 +12,7 @@ body {
 main {
     height: 100vh;
     background-color: aquamarine;
-    flex-grow: 1;
+    /*flex-grow: 1;*/
 }
 
 h1 {
