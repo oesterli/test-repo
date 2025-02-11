@@ -1,9 +1,10 @@
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 
 .overall-wrapper {
     max-width: 1000px;
-    background-color: beige;
+    background-color: rgb(27, 182, 94);
 }
