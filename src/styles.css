@@ -18,3 +18,7 @@ main {
 h1 {
     color: red;
 }
+footer {
+    position: sticky;
+    bottom: 0;
+}
