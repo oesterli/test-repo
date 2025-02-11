@@ -9,6 +9,12 @@ body {
     background-color: beige;
 }
 
+header {
+    position: sticky;
+    top: 0;
+    background-color: beige;
+}
+
 main {
     min-height: 100vh;
     background-color: aquamarine;
